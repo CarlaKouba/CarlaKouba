@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CarlaKouba
+- 👀 I’m interested in programming
+- 🌱 I’m currently studying Computer Science
+- 📫 How to reach me carlakoubaX@gmail.com 
